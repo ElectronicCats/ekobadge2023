@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TopEkoparty")(type "KiCad")(uri "${KIPRJMOD}/TopEkoparty.pretty")(options "")(descr ""))
+)
