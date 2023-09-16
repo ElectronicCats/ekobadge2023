@@ -1,6 +1,6 @@
 # EKO Badge 2023
 
-El primer badge de  oficial de la EKO Party
+El primer badge oficial de la EKO Party
 
 ## Características
 
