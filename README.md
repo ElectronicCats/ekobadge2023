@@ -34,15 +34,15 @@ o también puedes utilizar
 
 ## Preguntas Frecuentes
 
-- ¿Cómo es el badge? 
+- **¿Cómo es el badge?** 
 
   Eso es algo que tendrás que esperar hasta el día del evento
 
-- ¿Va a haber un lugar para modificar el badge? 
+- **¿Va a haber un lugar para modificar el badge?** 
 
   Nos vemos en la villa de hardware ;)
 
-- ¿Dónde puede hacer mis PCBs de la máscara? 
+- **¿Dónde puede hacer mis PCBs de la máscara?** 
 
   Te dejamos algunos lugares recomendados:
   PCBWay, JLCPCB o algún otro fabricante de PCB
