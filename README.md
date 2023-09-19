@@ -13,15 +13,18 @@ El primer badge oficial de la EKO Party!
 - Baterias AA
 
 ## Crear tu propia máscara
+Una de las características más emocionantes de nuestro EKOBadge es la capacidad de crear tu propia máscara. Visualmente, su aspecto es único, y para fomentar la creatividad de la comunidad, hemos diseñado una máscara que puedes modificar según tu personalidad.
 
 El badge cuenta con un accesorio que hemos llamado la "Mascara" que puede modificar visualmente su aspecto, hemos liberado el diseño porque queremos la comunidad pueda crear sus propias máscaras según su personalidad. 
 
-Hemos dejado los archivos necesarios con las medidas para que puedas diseñar tu propia máscara para el EKOBadge, esperamos ver geniales diseños, te retamos a hacer la mejor máscara.
+Hemos dejado los archivos necesarios con las medidas para que puedas diseñar tu propia máscara para el EKOBadge. ¡Esperamos ver diseños geniales! Te retamos a hacer la mejor máscara.
 
 **IMPORTANTE:**
 - Grosor o PCB Thickness de la PCB es de 0.6
 
 ### Software necesario
+
+Para facilitar el proceso, necesitarás ciertas herramientas. Puedes utilizar KiCad para el diseño de PCB y Inkscape para la creación de gráficos. Además, te recomendamos el uso de evg2shenzhen o svgtomod. Todos los enlaces a estas herramientas se encuentran en la descripción.
 
 - [KiCad](https://www.kicad.org/) 
 - [Inskcape](https://inkscape.org/es/)
@@ -31,7 +34,7 @@ o también puedes utilizar
 
 - [svgtomod](https://github.com/mtl/svg2mod) 
 
-¿Quieres presumir tu creación? Comparte con nosotros en redes sociales @ekoparty y @electronicats
+¿Quieres presumir tu creación? ¡Compártela con nosotros en las redes sociales de ekoparty y Electronicats! Estamos ansiosos por ver tus diseños únicos.
 
 ## Preguntas Frecuentes
 
@@ -41,17 +44,14 @@ o también puedes utilizar
 
 - **¿Va a haber un lugar para modificar el badge?** 
 
-  Nos vemos en la villa de hardware ;)
+ ¡Nos vemos en la villa de hardware!
 
 - **¿Dónde puede hacer mis PCBs de la máscara?** 
 
   Te dejamos algunos lugares recomendados:
   [PCBWay](https://www.pcbway.com/), [JLCPCB](https://jlcpcb.com/) o algún otro fabricante de PCB
 
-Si tiene alguna duda sobre como crear tu máscara puedes abrir un issue
-
-(si tienes alguna duda sobre como el es badge o que hace, aún no hay respuestas)
-
+Si tienes alguna duda sobre cómo crear tu máscara, no dudes en abrir un issue.
 
 
 ## License
