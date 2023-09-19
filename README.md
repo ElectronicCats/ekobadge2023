@@ -1,6 +1,6 @@
 # EKO Badge 2023
 
-El primer badge oficial de la EKO Party
+El primer badge oficial de la EKO Party!
 
 ## Características
 
@@ -36,7 +36,7 @@ o también puedes utilizar
 
 - **¿Cómo es el badge?** 
 
-  Eso es algo que tendrás que esperar hasta el día del evento
+  Eso es algo que tendrás que esperar a descubrir hasta el día del evento
 
 - **¿Va a haber un lugar para modificar el badge?** 
 
@@ -45,7 +45,7 @@ o también puedes utilizar
 - **¿Dónde puede hacer mis PCBs de la máscara?** 
 
   Te dejamos algunos lugares recomendados:
-  PCBWay, JLCPCB o algún otro fabricante de PCB
+  [PCBWay](https://www.pcbway.com/), [JLCPCB](https://jlcpcb.com/) o algún otro fabricante de PCB
 
 Si tiene alguna duda sobre como crear tu máscara puedes abrir un issue
 
