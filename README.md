@@ -8,6 +8,7 @@ El primer badge oficial de la EKO Party!
 - I2C
 - UART
 - 43414e
+- aHR0cHM6Ly95b3V0dS5iZS9kUXc0dzlXZ1hjUQ==
 - Ymx1ZXRvb3Ro
 - Baterias AA
 
