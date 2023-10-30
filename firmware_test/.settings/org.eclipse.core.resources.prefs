@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//APP/app.c=UTF-8
+encoding//APP/app_main.c=UTF-8
+encoding//HAL/Link.ld=GBK
+encoding//HAL/MCU.c=GBK
+encoding//HAL/include/HAL.h=GBK
+encoding//HAL/include/config.h=GBK
+encoding//LIB/wchble_rom.h=GBK
+encoding//Ld/Link.ld=GBK
+encoding//MESH_LIB/MESH_LIB.h=GBK
+encoding//SSD1306/include/ch32v003fun.h=GBK
+encoding//SSD1306/include/funconfig.h=GBK
+encoding//SSD1306/include/ssd1306.h=GBK
