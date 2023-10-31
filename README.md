@@ -4,13 +4,34 @@ El primer badge oficial de la EKO Party!
 
 ## Características
 
-- 01010000 01110010 01101111 01100011 01100101 01110011 01100001 01100100 01101111 01110010 00100000 01010010 01001001 01010011 01000011 00100000 01010110
+- Procesador RISC V
 - I2C
 - UART
-- 43414e
-- aHR0cHM6Ly95b3V0dS5iZS9kUXc0dzlXZ1hjUQ==
-- Ymx1ZXRvb3Ro
+- CAN
+- Bluetooth
 - Baterias AA
+## Crea tu propio firmware
+En la carpeta firmware_test hemos dejado un ejemplo de como puedes utilizar las funciones basicas del badge
+
+- Ahora puedes controlar los LEDs
+- Puedes controlar BLE
+- Puedes controlar la OLED
+
+Puedes hacer mucho mas, solo es cuestion de tu imaginacion y que tanta documentacion puedas leer en tres dias, el badge cuenta con el chip CH32V208CBU6 de WCH algunas de las cosas interesantes de este chip son:
+
+- Comunicacion:
+  - BLE
+  - I2C
+  - Serial
+  - SPI
+  - CAN
+  - y otros GPIOs
+
+ ## Links de interes
+
+- Datasheet: [Hoja de datos](https://www.wch-ic.com/products/CH32V208.html)
+- SDK: [OpenWCH CH32v20x](https://github.com/openwch/ch32v20x)
+- MountRiver: [IDE MountRiver](http://www.mounriver.com/)
 
 ## Crear tu propia máscara
 Una de las características más emocionantes de nuestro EKOBadge es la capacidad de crear tu propia máscara. Visualmente, su aspecto es único, y para fomentar la creatividad de la comunidad, hemos diseñado una máscara que puedes modificar según tu personalidad.
