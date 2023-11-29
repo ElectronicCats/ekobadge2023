@@ -1,31 +1,8 @@
 # EKO Badge 2023
 
+## Este repositorio ha sido archivado para ultimas actualizaciones ir a https://github.com/ElectronicCats/badge-ekoparty2023
+
 El primer badge oficial de la EKO Party!
-
-## Características
-
-- Procesador RISC V
-- I2C
-- UART
-- CAN
-- Bluetooth
-- Baterias AA
-## Crea tu propio firmware
-En la carpeta firmware_test hemos dejado un ejemplo de como puedes utilizar las funciones basicas del badge
-
-- Ahora puedes controlar los LEDs
-- Puedes controlar BLE
-- Puedes controlar la OLED
-
-Puedes hacer mucho mas, solo es cuestion de tu imaginacion y que tanta documentacion puedas leer en tres dias, el badge cuenta con el chip CH32V208CBU6 de WCH algunas de las cosas interesantes de este chip son:
-
-- Comunicacion:
-  - BLE
-  - I2C
-  - Serial
-  - SPI
-  - CAN
-  - y otros GPIOs
 
  ## Links de interes
 
